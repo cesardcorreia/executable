@@ -1,0 +1,21 @@
+{
+    "name": "cesarcorreia/executable",
+    "description": "Executable trait for action pattern projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cesarcorreia\\Executable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "César Correia",
+            "email": "cesardcorreia@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0"
+    }
+}
