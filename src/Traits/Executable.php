@@ -1,6 +1,6 @@
 <?php
 
-namespace CesarCorreia\Traits;
+namespace Cesarcorreia\Executable\Traits;
 
 trait Executable
 {
