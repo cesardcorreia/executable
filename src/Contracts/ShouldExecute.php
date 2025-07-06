@@ -1,6 +1,6 @@
 <?php
 
-namespace Contracts;
+namespace CesarCorreia\Contracts;
 
 interface ShouldExecute
 {
